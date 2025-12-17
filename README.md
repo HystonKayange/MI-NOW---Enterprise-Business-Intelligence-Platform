@@ -1,4 +1,4 @@
-# 🚀 MI-NOW - Enterprise Business Intelligence Platform
+#  MI-NOW - Enterprise Business Intelligence Platform
 
 <div align="center">
 
